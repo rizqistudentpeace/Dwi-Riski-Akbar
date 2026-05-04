@@ -13,26 +13,26 @@ Instruksi:
  Batas Pengerjaan sudah harus dikumpulkan sebelum 1 minggu dari jadwal yang telah  ditentukan  
 
 
-#Soal Ujian:  
-#NO PERTANYAAN SCORE 
+# Soal Ujian:  
+# NO PERTANYAAN SCORE 
 
-#1 Berikan penjelasan anda mengenai statistika parametrik dan statistika non 
+# 1 Berikan penjelasan anda mengenai statistika parametrik dan statistika non 
 10  parametrik, serta berikanlah contoh kasus?  
 
-#2 Berikan argumen anda mengenai “hasil penelitian yang valid pasti reliable dan  
+# 2 Berikan argumen anda mengenai “hasil penelitian yang valid pasti reliable dan  
 10  
 obyektif, tapi apakah hasil penelitian yang reliable dan obyektif juga pasti valid”? Uraikan menurut perspektif anda? 
 
-#3 Diberikan data 60 mahasiswa dari prodi sains aktuaria universitas A berikut  
+# 3 Diberikan data 60 mahasiswa dari prodi sains aktuaria universitas A berikut  
 20 
 datanya :  
 60 67 63 81 64 75 64 70 73 71  83 75 56 53 73 80 71 81 89 80  57 54 60 75 76 83 65 75 81 71  74 70 64 89 64 85 51 75 55 56  89 89 74 86 74 86 61 55 56 58  77 79 51 55 65 38 77 31 33 77  
 Dari data tersebut carilah mean, modus, median, serta buatlah tabel distribusi  frekuensi?  
 
-#4 Buatlah sebuah hipotesis mengenai hubungan antara dua fenomena yang  disertasi dengan argumen anda? 
+# 4 Buatlah sebuah hipotesis mengenai hubungan antara dua fenomena yang  disertasi dengan argumen anda? 
 20
 
-#5 Periksalah apakah data diameter batang tanaman berdistribusi normal atau 
+# 5 Periksalah apakah data diameter batang tanaman berdistribusi normal atau 
 20  
 tidak dan lakukan uji hiptesis dgn α=0.05 ((GUNAKAN SOFTWARE):  
 No Diameter(cm) No Diameter(cm) No Diameter(cm) 1 23 11 32 21 22  
@@ -46,7 +46,7 @@ No Diameter(cm) No Diameter(cm) No Diameter(cm) 1 23 11 32 21 22
 9 34 19 27 29 29  
 10 33 20 29 30 11  
 
-#6 Efektifitas Tiga metode mengajar yaitu Diskusi, Problem Solving, dan Tugas terlihat 
+# 6 Efektifitas Tiga metode mengajar yaitu Diskusi, Problem Solving, dan Tugas terlihat 
 20 
 dari nilai matematika terhadap 3 kelompok siswa selama 3 bulan. Data hasil belajar  di sajikan sebagai berikut (GUNAKAN SOFTWARE):  
 Problem  
