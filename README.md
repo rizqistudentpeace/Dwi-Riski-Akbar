@@ -13,8 +13,7 @@ Instruksi:
  Batas Pengerjaan sudah harus dikumpulkan sebelum 1 minggu dari jadwal yang telah  ditentukan  
 
 
-# Soal Ujian:  
-# NO PERTANYAAN SCORE 
+* Soal Ujian:  
 
 # 1 Berikan penjelasan anda mengenai statistika parametrik dan statistika non 
 10  parametrik, serta berikanlah contoh kasus?  
