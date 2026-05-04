@@ -11,6 +11,8 @@ Instruksi:
  Boleh menggunakan alat hitung  
  Dilarang bekerjasama dalam bentuk apapun  
  Batas Pengerjaan sudah harus dikumpulkan sebelum 1 minggu dari jadwal yang telah  ditentukan  
+
+
 Soal Ujian:  
 NO PERTANYAAN SCORE 
 1 Berikan penjelasan anda mengenai statistika parametrik dan statistika non 
